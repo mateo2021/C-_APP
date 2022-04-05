@@ -1,0 +1,13 @@
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.deps.json
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.AssemblyReference.cache
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CopyComplete
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.dll
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4DLOiUAuDaq12PnzVVwaj0sQShGMUZRbNBA/9Ze/TpCwz0HbyBreDHwnnmgfsABQFbdLSHeQN4W8eFrF1u575w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mstad\\OneDrive\\Pulpit\\dotNet_testy\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mstad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

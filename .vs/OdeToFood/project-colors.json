@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92afe93e-37bf-4499-ac50-c59338289f90": {
+      "ProjectGuid": "92afe93e-37bf-4499-ac50-c59338289f90",
+      "DisplayName": "OdeToFood",
+      "ColorIndex": 0
+    },
+    "6ad00054-5939-436c-849a-33549af850fb": {
+      "ProjectGuid": "6ad00054-5939-436c-849a-33549af850fb",
+      "DisplayName": "OdeToFood.Core",
+      "ColorIndex": 1
+    },
+    "2700bcc2-e865-4ae2-87c3-cd27a91f7fc9": {
+      "ProjectGuid": "2700bcc2-e865-4ae2-87c3-cd27a91f7fc9",
+      "DisplayName": "OdeToFood.Data",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
