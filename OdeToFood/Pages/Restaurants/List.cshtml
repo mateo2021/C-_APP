@@ -10,7 +10,7 @@
  <form method="get">
      <div class="form-group">
          <div class="input-group">
-             <input type="search" class="form-control" value="" asp-for="SearchTerm" />
+             <input type="search" class="form-control" asp-for="SearchTerm" />
              <span>
                  <button class="btn ">
                     Wyszukaj
@@ -37,13 +37,19 @@
                 Edit Restaurant
              </a>
          </td>
+         <td>
+             <a class="btn btn-light" > Delete </a>
+         </td>
      </tr>
 
      }
+
  </table>
+
+
+ <a asp-page="./Edit" class="btn btn-danger"> Add new restaurant</a>
  
- 
- 
+ <hr />
  
  
  <div>@Model.Message</div>

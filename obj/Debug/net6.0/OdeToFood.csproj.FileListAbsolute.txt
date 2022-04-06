@@ -1,0 +1,8 @@
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\obj\Debug\net6.0\OdeToFood.csproj.AssemblyReference.cache
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\obj\Debug\net6.0\OdeToFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\obj\Debug\net6.0\OdeToFood.AssemblyInfoInputs.cache
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\obj\Debug\net6.0\OdeToFood.AssemblyInfo.cs
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\obj\Debug\net6.0\OdeToFood.csproj.CoreCompileInputs.cache
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\obj\Debug\net6.0\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\obj\Debug\net6.0\OdeToFood.RazorAssemblyInfo.cache
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\obj\Debug\net6.0\OdeToFood.RazorAssemblyInfo.cs
