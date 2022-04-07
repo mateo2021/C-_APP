@@ -1,55 +1,40 @@
-﻿ @page
+﻿@page
 @using OdeToFood.Core
 @model OdeToFood.Pages.Restaurants.ListModel
 @{
 }
 
- <h1>Restaurant</h1>
+<h1>Restaurant</h1>
 
- 
- <form method="get">
-     <div class="form-group">
-         <div class="input-group">
-             <input type="search" class="form-control" asp-for="SearchTerm" />
-             <span>
-                 <button class="btn ">
+
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" asp-for="SearchTerm" />
+            <span>
+                <button class="btn ">
                     Wyszukaj
-                 </button>
-             </span>
-         </div>
-     </div>
- </form>
- 
- <table class="table">
-     @foreach (var r in @Model.Restaurants)
-     {
-     <tr>
-         <td>@r.Name</td>
-         <td>@r.Location</td>
-         <td>@r.Cuisine </td>
-         <td>
-             <a asp-page="./Detail" asp-route-restaurantID="@r.Id" class="btn btn-light">
-                 Show details
-             </a>
-         </td>
-         <td>
-             <a asp-page="./Edit" asp-route-restaurantID="@r.Id" class="btn btn-light">
-                Edit Restaurant
-             </a>
-         </td>
-         <td>
-             <a class="btn btn-light" > Delete </a>
-         </td>
-     </tr>
-
-     }
-
- </table>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
 
 
- <a asp-page="./Edit" class="btn btn-danger"> Add new restaurant</a>
- 
- <hr />
- 
- 
- <div>@Model.Message</div>
+@foreach (var restaurant in Model.Restaurants)
+{
+    <partial name="_Summary" model="restaurant" />
+}
+
+
+
+<a asp-page="./Edit" class="btn btn-danger"> Add new restaurant</a>
+
+<hr />
+
+
+
+@*@section footer{
+        <div>@Model.Message</div>
+    }*@
+

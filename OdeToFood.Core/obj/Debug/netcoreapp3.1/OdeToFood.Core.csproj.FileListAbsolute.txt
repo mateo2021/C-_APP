@@ -7,3 +7,4 @@ C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Core\obj\Debug\n
 C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
 C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.dll
 C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\mstad\OneDrive\Pulpit\dotNet_testy\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csproj.AssemblyReference.cache

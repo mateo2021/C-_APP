@@ -1,0 +1,31 @@
+﻿@page "{restaurantID:int?}"
+
+@model OdeToFood.Pages.Restaurants.DeleteModel
+@{
+    ViewData["Title"] = "Delete";
+}
+
+
+
+<div class="alert">
+    <h2> Do you really want to remove @Model.Restaurant.Name</h2>
+</div>
+
+
+<div>
+    ID: @Model.Restaurant.Id
+</div>
+<div>
+    Localization: @Model.Restaurant.Location
+</div>
+<div>
+    Cuisine: @Model.Restaurant.Cuisine
+</div>
+<hr />
+
+<hr />
+<form method="post">
+    <button type="submit" class="btn btn-danger"> Save</button>
+</form>
+
+<a asp-page="./List" class="btn btn-dark">Back to all restaurants</a>

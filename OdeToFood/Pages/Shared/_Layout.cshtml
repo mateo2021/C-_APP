@@ -40,9 +40,15 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2022 - OdeToFood - <a asp-area="" asp-page="/Privacy">Privacy</a>
+            @*@RenderSection("footer", required: false)*@
+            <vc:restaurant-count></vc:restaurant-count>
+           
+            
+            &copy; 2019 - OdeToFood  - <a asp-area="" asp-page="/Privacy">Privacy</a>
+            <img src="/OdeToFood.png" />
         </div>
     </footer>
+
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
